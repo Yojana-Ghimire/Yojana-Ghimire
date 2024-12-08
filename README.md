@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Enthusiasts | Engineering Student<br>I am 4th semester Engineering Student and Data Analyst<br><br>🌍  I'm from Nepal<br>🖥️  <br>✉️  You can contact me at yojanaghimire5@gmail.com<br>🧠  I'm learning Database, Data analytics<br>🤝  I'm open to collaborating on Interesting Project Ideas<br>⚡  I write poems and love to travel
+Data Enthusiasts | Computer Engineering Student<br>I am 4th semester Engineering Student and Data Analyst<br><br>🌍  I'm from Nepal<b>✉️  You can contact me at yojanaghimire5@gmail.com<br>🧠  I'm learning Database, Data analytics<br>🤝  I'm open to collaborating on Interesting Project Ideas<br>⚡  I write poems and love to travel
 
 
 ## 🌐 Socials:
