@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 5th semester Computer Engineering Student and a big 'Big data' enthusiasts.<br>I love writing poems and to travel<br>fun fact: I am a magician 🪄
+I'm a 7th semester Computer Engineering Studen.<br>I love learning new things and to travel<br>fun fact: I am a magician 🪄
 
 
 ## 🌐 Socials:
